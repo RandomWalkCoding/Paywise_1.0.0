@@ -1,0 +1,8 @@
+INFO:     127.0.0.1:42372 - "GET /api/v1/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:5349 - "GET /api/v1/health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:4196 - "GET /api/v1/scenarios?include_deleted=true HTTP/1.1" 200 OK
+INFO:     127.0.0.1:26977 - "GET /api/v1/scenarios?include_deleted=true HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49669 - "OPTIONS /api/v1/calculations HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49669 - "POST /api/v1/calculations HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50774 - "GET /api/v1/scenarios?include_deleted=false HTTP/1.1" 200 OK
+INFO:     127.0.0.1:43541 - "GET /api/v1/scenarios?include_deleted=false HTTP/1.1" 200 OK
